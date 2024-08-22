@@ -1,0 +1,123 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				sheep = true
+				wolf = true
+				cow = true
+				pig = true
+				squid = true
+				dolphin = true
+				glow_squid = true
+				zombie = true
+				cod = true
+				spider = true
+				bat = true
+				creeper = true
+				skeleton = true
+				stray = true
+				fox = true
+				item = true
+				husk = true
+				horse = true
+				chicken = true
+				drowned = true
+				salmon = true
+				enderman = true
+				slime = true
+				witch = true
+				bee = true
+				parrot = true
+				hoglin = true
+				iron_golem = true
+				cat = true
+				frog = true
+				pillager = true
+				panda = true
+				evoker = true
+				turtle = true
+				cave_spider = true
+				goat = true
+				tropical_fish = true
+				item_frame = true
+				armor_stand = true
+				painting = true
+				magma_cube = true
+				piglin = true
+				zombified_piglin = true
+				ocelot = true
+				pufferfish = true
+				rabbit = true
+				vindicator = true
+				potion = true
+
+			[light_sources.settings.entities.fishofthieves]
+				pondie = true
+				wildsplash = true
+
+			[light_sources.settings.entities.mca]
+				female_zombie_villager = true
+				female_villager = true
+				male_zombie_villager = true
+				male_villager = true
+
+			[light_sources.settings.entities.naturalist]
+				lizard = true
+				butterfly = true
+				alligator = true
+				duck = true
+				catfish = true
+				bass = true
+				coral_snake = true
+				vulture = true
+				zebra = true
+				lion = true
+				snail = true
+				bear = true
+				boar = true
+				giraffe = true
+				finch = true
+				cardinal = true
+				elephant = true
+				sparrow = true
+				robin = true
+				snake = true
+				tortoise = true
+				rhino = true
+				deer = true
+
+			[light_sources.settings.entities.aqupd]
+				grizzly_bear = true
+				caracal = true
+
+			[light_sources.settings.entities.netherdepthsupgrade]
+				searing_cod = true
+
+			[light_sources.settings.entities.tinyskeletons]
+				baby_skeleton = true
+
+			[light_sources.settings.entities.mutantmonsters]
+				mutant_zombie = true
+

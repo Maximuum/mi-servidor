@@ -1,0 +1,471 @@
+{
+  "advancednetherite:recipes/building_blocks/netherite_iron_block": {
+    "criteria": {
+      "has_the_recipe": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_pink": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-21 19:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-08-21 19:44:13 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_purple": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_gray": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_diamond_block": {
+    "criteria": {
+      "has_ingredients": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_black": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_green": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_the_recipe": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_plains": "2024-08-21 19:41:27 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-08-21 19:39:40 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_white": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_emerald_block": {
+    "criteria": {
+      "has_the_recipe": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2024-08-21 19:47:43 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2024-08-21 19:47:43 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_colorless": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2024-08-21 19:49:30 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-08-21 19:39:40 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_iron_block": {
+    "criteria": {
+      "has_ingredients": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_brown": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_ingots": {
+    "criteria": {
+      "has_ingredients": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_light_gray": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_emerald_block": {
+    "criteria": {
+      "has_ingredients": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-08-21 19:44:24 +0000"
+    },
+    "done": true
+  },
+  "packedup:obsidian_backpack": {
+    "criteria": {
+      "has_backpack": "2024-08-21 19:48:26 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_duck_egg": "2024-08-21 19:49:30 +0000"
+    },
+    "done": true
+  },
+  "blockus:recipes/building_blocks/bread_box": {
+    "criteria": {
+      "has_bread": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/netherite_gold_block": {
+    "criteria": {
+      "has_ingredients": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_magenta": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/obsidian_from_diamond": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:28 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_diamond_block": {
+    "criteria": {
+      "has_the_recipe": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "packedup:diamond_backpack": {
+    "criteria": {
+      "has_backpack": "2024-08-21 19:45:28 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_orange": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/building_blocks/netherite_gold_block": {
+    "criteria": {
+      "has_the_recipe": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-08-21 19:39:40 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_the_recipe": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_blue": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_lime": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2024-08-21 19:49:30 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_4_rocket": {
+    "criteria": {
+      "tier_4_rocket": "2024-08-21 19:43:00 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_cyan": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_red": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_light_blue": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_the_recipe": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/amethyst_lantern_yellow": {
+    "criteria": {
+      "recipe_condition": "2024-08-21 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "wythers:world_explorer": {
+    "criteria": {
+      "wythers:crimson_tundra": "2024-08-21 19:41:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-08-21 19:39:41 +0000"
+    },
+    "done": false
+  },
+  "advancednetherite:recipes/misc/netherite_iron_ingot": {
+    "criteria": {
+      "has_the_recipe": "2024-08-21 19:39:41 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
